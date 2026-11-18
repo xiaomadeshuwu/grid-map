@@ -6,7 +6,9 @@
 
 **https://xiaomadeshuwu.github.io/grid-map/**
 
-手机、平板、异地电脑均可直接打开。
+手机、平板、异地电脑均可直接打开；也可以直接扫码：
+
+<img src="preview/qrcode.png" alt="扫码打开工单地图" width="420">
 
 ![工单地图](preview/map.png)
 
